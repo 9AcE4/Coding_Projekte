@@ -1,2 +1,2 @@
-# Python_Projekte
+# Coding_Projekte
 Landezone für Übungen im Coding
